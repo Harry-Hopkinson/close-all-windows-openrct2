@@ -1,0 +1,10 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+export FORCE_COLOR=1
+
+echo "Running husky pre-commit hook..."
+
+npm run lint
+
+echo "All good, commiting!"
