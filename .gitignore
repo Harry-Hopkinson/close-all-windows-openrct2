@@ -1,9 +1,3 @@
-# API declaration file
-lib/openrct2.d.ts
-
-# local config files
-config/local*.json
-
 # Logs
 logs
 *.log
