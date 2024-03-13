@@ -1,8 +1,9 @@
-# Close all Windows 
+# Close all Windows
 
-A plugin for [OpenRCT2](https://openrct2.org/) that closes all current windows open on your screen. 
+A plugin for [OpenRCT2](https://openrct2.org/) that closes all current windows open on your screen.
 Great for when moving large amounts of guests or if you have a cluttered screen
 and do not want to have to frantically click around to close them all.
+
 ## Installation
 
 Download the [latest release][] from GitHub. Then, place the `.js` file
@@ -18,6 +19,7 @@ in your [OpenRCT2 plugin folder][].
 This plugin adds a new dialog window to the "Map" menu, where all other
 plugins are located, allowing you to choose under the "Close All Windows" option.
 On click the plugin will close all of your current windows.
+
 ## Development
 
 If you wish to contribute to this project, make sure it builds locally

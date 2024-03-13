@@ -4,7 +4,7 @@
   "description": "Closes all open windows in OpenRCT2",
   "main": "",
   "scripts": {
-   "build": "tsc" 
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
