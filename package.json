@@ -1,8 +1,7 @@
 {
   "name": "close-all-windows-openrct2",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Closes all open windows in OpenRCT2",
-  "main": "",
   "scripts": {
     "build": "tsc"
   },
@@ -21,9 +20,5 @@
     "cross-env": "^7.0.3",
     "ts-node": "^10.8.1",
     "typescript": "^4.7.3"
-  },
-  "engines": {
-    "node": "18.12.1",
-    "npm": "8.19.2"
   }
 }
