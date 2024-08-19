@@ -4,6 +4,8 @@ A plugin for [OpenRCT2](https://openrct2.org/) that closes all current windows o
 Great for when moving large amounts of guests or if you have a cluttered screen
 and do not want to have to frantically click around to close them all.
 
+This is a graphical method and an alternative to the shortcut `Shift+Backspace`
+
 ## Installation
 
 Download the [latest release][] from GitHub. Then, place the `.js` file
