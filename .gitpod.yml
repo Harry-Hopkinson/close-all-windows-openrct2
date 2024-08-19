@@ -1,4 +1,2 @@
 tasks:
   - init: yarn && yarn build
-
-

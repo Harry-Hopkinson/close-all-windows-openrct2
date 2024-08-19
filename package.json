@@ -3,7 +3,9 @@
   "version": "1.0.2",
   "description": "Closes all open windows in OpenRCT2",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "lint": "prettier --check .",
+    "format": "prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -18,6 +20,7 @@
   "devDependencies": {
     "@types/node": "^17.0.38",
     "cross-env": "^7.0.3",
+    "prettier": "^3.3.3",
     "ts-node": "^10.8.1",
     "typescript": "^4.7.3"
   }
