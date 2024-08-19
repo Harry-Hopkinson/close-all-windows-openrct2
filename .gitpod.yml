@@ -1,2 +1,2 @@
 tasks:
-  - init: yarn && yarn build
+  - init: cd lib && sh FetchOpenRCT2Api.sh && cd .. && yarn && yarn build
