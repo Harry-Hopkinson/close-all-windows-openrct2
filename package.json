@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Harry-Hopkinson/close-all-windows-openrct2#readme",
   "devDependencies": {
-    "@types/node": "^17.0.38",
+    "@types/node": "^20.0.0",
     "cross-env": "^7.0.3",
     "prettier": "^3.3.3",
     "ts-node": "^10.8.1",
