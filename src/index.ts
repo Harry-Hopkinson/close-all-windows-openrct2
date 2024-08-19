@@ -1,4 +1,4 @@
-var closeAllWindows = function () {
+var CloseAllWindows = function () {
   if (ui.windows !== undefined) {
     for (var i = 0; i < ui.windows; i++) {
       if (!ui.getWindow(i).isSticky) window.close();
@@ -8,7 +8,7 @@ var closeAllWindows = function () {
 
 var main = function () {
   ui.registerMenuItem("Close all Windows", function () {
-    closeAllWindows();
+    CloseAllWindows();
   });
 };
 
